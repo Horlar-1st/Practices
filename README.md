@@ -22,6 +22,7 @@ This is a simple Python project showcasing basic programming and numerical analy
 - Implements Trapezoidal and Simpson’s Rule  
 - Inputs: Function (as string), limits `a` & `b`, and number of intervals `n`  
 
+### 4. Lagrange's Polynomial
 ---
 
 ## ▶️ How to Run
