@@ -28,5 +28,5 @@ This is a simple Python project showcasing basic programming and numerical analy
 ## ▶️ How to Run
 
 1. Make sure you have **Python 3.x** installed  
-2. Run the script from terminal:
+2. Run the notebook on Jupyter notebook.
 
