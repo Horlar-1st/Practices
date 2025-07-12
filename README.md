@@ -14,9 +14,9 @@ This is a simple Python project showcasing basic programming and numerical analy
 - 📥 Input: Birthdate (`YYYY-MM-DD`)  
 - 📤 Output: Age in years, months, and days  
 
-### 2. Numerical Differentiation
-- Uses Forward, Backward, and Central Difference Methods  
-- Inputs: Function (as string), point `x`, and step size `h`
+### 2. Bisection Method
+- Find the root of a function using the bisection method. 
+- Inputs: Function (as string), interval `(a,b)`, and step size `h`
 
 ### 3. Numerical Integration
 - Implements Trapezoidal and Simpson’s Rule  
