@@ -16,7 +16,7 @@ This is a simple Python project showcasing basic programming and numerical analy
 
 ### 2. Bisection Method
 - Find the root of a function using the bisection method. 
-- Inputs: Function (as string), interval `(a,b)`, and decimal_places `h`
+- Inputs: Function (as string), interval `(a,b)`, and decimal places.
 
 ### 3. Numerical Integration
 - Implements Trapezoidal and Simpson’s Rule  
