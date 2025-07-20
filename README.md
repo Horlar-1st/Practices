@@ -18,11 +18,15 @@ This is a simple Python project showcasing basic programming and numerical analy
 - Find the root of a function using the bisection method. 
 - Inputs: Function (as string), interval `(a,b)`, and decimal places.
 
-### 3. Numerical Integration
+### 3. Divided differences and Interpolations
+- Computes the divided differences a given set of data
+- Inputs: Two lists of the values of xn for x and yn for y for the divided differences
+
+### 4. Numerical Integration
 - Implements Trapezoidal and Simpson’s Rule  
 - Inputs: Function (as string), limits `a` & `b`, and number of intervals `n`  
 
-### 4. Lagrange's Polynomial
+### 5. Lagrange's Polynomial
 ---
 
 ## ▶️ How to Run
