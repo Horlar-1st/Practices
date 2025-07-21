@@ -19,8 +19,8 @@ This is a simple Python project showcasing basic programming and numerical analy
 - Inputs: Function (as string), interval `(a,b)`, and decimal places.
 
 ### 3. Divided differences and Interpolations
-- Computes the divided differences a given set of data
-- Inputs: Two lists of the values of xn for x and yn for y for the divided differences
+- Computes the divided differences a given set of data and use the result to compute the lagrange's interpolation polynomial.
+- Inputs: Two lists of the values of xn for x and yn for y for the divided differences and lagrange's interpolation.
 
 ### 4. Numerical Integration
 - Implements Trapezoidal and Simpson’s Rule  
