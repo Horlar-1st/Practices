@@ -22,11 +22,14 @@ This is a simple Python project showcasing basic programming and numerical analy
 - Computes the divided differences a given set of data and use the result to compute the lagrange's interpolation polynomial.
 - Inputs: Two lists of the values of xn for x and yn for y for the divided differences and lagrange's interpolation.
 
-### 4. Numerical Integration
+### 4. Lagrange's Polynomial
+- Computes the lagrange's polynomial of given sets of input.
+- Inputs: Two lists of the values of xn for x and yn for y.
+
+### 5. Numerical Integration
 - Implements Trapezoidal and Simpson’s Rule  
 - Inputs: Function (as string), limits `a` & `b`, and number of intervals `n`  
 
-### 5. Lagrange's Polynomial
 ---
 
 ## ▶️ How to Run
