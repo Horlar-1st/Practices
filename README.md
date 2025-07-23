@@ -2,7 +2,8 @@
 
 This is a simple Python project showcasing basic programming and numerical analysis techniques. It includes:
 
-- 📆 **Age Calculator** – Computes age from a given date of birth  
+- 📆 **Age Calculator** – Computes age from a given date of birth
+- **Bisection Method** - Solve for the root of non-linear equation
 - 🧮 **Numerical Differentiation** – Approximates derivatives of functions  
 - ∫ **Numerical Integration** – Calculates definite integrals using numerical methods
 
@@ -11,7 +12,7 @@ This is a simple Python project showcasing basic programming and numerical analy
 ## 🚀 Features
 
 ### 1. Age Calculator
-- 📥 Input: Birthdate (`YYYY-MM-DD`)  
+- 📥 Input: Birthdate (`DD, MM, YYYY`)  
 - 📤 Output: Age in years, months, and days  
 
 ### 2. Bisection Method
