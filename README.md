@@ -2,10 +2,11 @@
 
 This is a simple Python project showcasing basic programming and numerical analysis techniques. It includes:
 
-- 📆 **Age Calculator** – Computes age from a given date of birth
-- **Bisection Method** - Solve for the root of non-linear equation
-- 🧮 **Numerical Differentiation** – Approximates derivatives of functions  
-- ∫ **Numerical Integration** – Calculates definite integrals using numerical methods
+- 📆 **Age Calculator** – Computes age from a given date of birth.
+- **Bisection Method** - Solve for the root of non-linear equation.
+- **Lagrange's Polynomial** - Computes the lagrange's polynomial of given sets of input.
+- 🧮 **Numerical Differentiation** – Approximates derivatives of functions.
+- ∫ **Numerical Integration** – Calculates definite integrals using numerical methods.
 
 ---
 
