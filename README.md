@@ -17,7 +17,7 @@ This is a simple Python project showcasing basic programming and numerical analy
 - 📤 Output: Age in years, months, and days  
 
 ### 2. Bisection Method
-- Find the root of a function using the bisection method. 
+- Find the root of a non-linear equation using the bisection method. 
 - Inputs: Function (as string), interval `(a,b)`, and decimal places.
 
 ### 3. Divided differences and Interpolations
@@ -33,6 +33,7 @@ This is a simple Python project showcasing basic programming and numerical analy
 - Inputs: Function (as string), limits `a` & `b`, and number of intervals `n`  
 
 ---
+
 
 ## ▶️ How to Run
 
