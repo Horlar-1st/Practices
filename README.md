@@ -32,6 +32,9 @@ This is a simple Python project showcasing basic programming and numerical analy
 - Implements Trapezoidal and Simpson’s Rule  
 - Inputs: Function (as string), limits `a` & `b`, and number of intervals `n`  
 
+### 6. My Practices
+- This notebook contains several practices that serves as foundational build up for me.
+- It varies from easy to expert across several sections. 
 ---
 
 
@@ -39,4 +42,3 @@ This is a simple Python project showcasing basic programming and numerical analy
 
 1. Make sure you have **Python 3.x** installed  
 2. Run the notebook on Jupyter notebook.
-
