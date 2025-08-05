@@ -45,8 +45,10 @@ Practices
 |  ├── Bisection_method.ipynb
 |  ├── Divided_difference_and_interpolation.ipynb
 |  ├── Lagrange_polynomial.ipynb
-│  └── 
+|  ├── Numerical_Integration.ipynb
+│  └── my_Practice.ipynb
 │
+└── README.md
 
 ---
 
