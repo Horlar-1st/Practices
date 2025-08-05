@@ -38,6 +38,8 @@ This is a simple Python project showcasing basic programming and numerical analy
 ---
 
 ## Repository Structure 
+
+```
 Practices
 |
 ├── notebooks/
@@ -49,7 +51,7 @@ Practices
 │  └── my_Practice.ipynb
 │
 └── README.md
-
+```
 ---
 
 ## ▶️ How to Run
