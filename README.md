@@ -37,6 +37,18 @@ This is a simple Python project showcasing basic programming and numerical analy
 - It varies from easy to expert across several sections. 
 ---
 
+## Repository Structure 
+Practices
+|
+├── notebooks/
+|  ├── Age_calculator.ipynb
+|  ├── Bisection_method.ipynb
+|  ├── Divided_difference_and_interpolation.ipynb
+|  ├── Lagrange_polynomial.ipynb
+│  └── 
+│
+
+---
 
 ## ▶️ How to Run
 
