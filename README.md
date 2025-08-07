@@ -48,6 +48,7 @@ Practices
 |  ├── Divided_difference_and_interpolation.ipynb
 |  ├── Lagrange_polynomial.ipynb
 |  ├── Numerical_Integration.ipynb
+|  ├── practice_set1.ipynb
 │  └── my_Practice.ipynb
 │
 └── README.md
