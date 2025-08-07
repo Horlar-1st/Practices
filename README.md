@@ -40,7 +40,10 @@ This is a simple Python project showcasing basic programming and numerical analy
 ## Repository Structure 
 
 ```
-Practices
+Practices/
+|
+├── files/
+|  └── Python_Practice_Problems.pdf
 |
 ├── notebooks/
 |  ├── Age_calculator.ipynb
