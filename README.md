@@ -22,6 +22,9 @@ Practices/
 ├── files/
 │   └── Python_Practice_Problems.pdf
 |
+├── julia/
+│   └── intro_to_julia.ipynb
+|
 ├── notebooks/
 │   ├── Age_calculator.ipynb
 │   ├── Bisection_method.ipynb
